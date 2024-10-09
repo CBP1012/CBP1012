@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CBP1012
+- 👋 Hello, I’m Cristian Keroles
 - 👀 I’m interested in python, SQL, SPRQL, and ontologies
 -  I’m looking to collaborate on ontologies
 
