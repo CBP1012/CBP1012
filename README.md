@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Cristian Keroles
-- 👀 I’m interested in python, SQL, SPRQL, and ontologies
+- 👀 I’m interested in python, SPARQL, and ontologies
 -  I’m looking to collaborate on ontologies
 
 <!---
